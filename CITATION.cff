@@ -1,0 +1,32 @@
+cff-version: 1.2.0
+message: "If you use this work, please cite the preprint."
+title: "Superheavy dark matter and stepped dark radiation for Hubble Tension"
+type: dataset
+authors:
+  - family-names: Xu
+    given-names: Zhijie (Jay)
+    affiliation: "Pacific Northwest National Laboratory"
+    orcid: "https://orcid.org/0000-0003-0459-4531"
+identifiers:
+  - type: doi
+    value: "10.5281/zenodo.24092806"
+    description: "Zenodo archive of the manuscript and data files"
+license: CC-BY-4.0
+version: "3.0"
+date-released: "2026-11-09"
+keywords:
+  - "dark matter"
+  - "dark radiation"
+  - "Hubble tension"
+  - "superheavy dark matter"
+  - "cold freeze-out"
+  - "stepped dark radiation"
+preferred-citation:
+  type: article
+  authors:
+    - family-names: Xu
+      given-names: Zhijie
+  title: "Superheavy dark matter and stepped dark radiation for Hubble Tension"
+  year: 2026
+  doi: "10.21203/rs.3.rs-8570078/v3"
+  url: "https://doi.org/10.21203/rs.3.rs-8570078/v3"

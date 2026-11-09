@@ -1,0 +1,11 @@
+# Publisher,Zhijie Xu,zhijie.xu@pnnl.gov,zhijiexu@hotmail.com,,
+# Updated,11/2026,,,,
+#Name,"Table 1 (component densities before and after cold freeze-out, units of the SM radiation after conversion) with Eqs. 42-44 for Delta N_eff = 0.4, kappa = 3.44, gamma -> 0",,,,
+#Ref. [1] This paper,https://doi.org/10.21203/rs.3.rs-8570078/v3,Z. Xu 2026: Superheavy dark matter and stepped dark radiation for Hubble Tension,,,
+,,,,,
+,,,,,
+y_DM,f_DR,x_DM (DM before),DR after = x_DM f_DR,SM before = 1 - x_DM (1 - f_DR),Delta N_eff
+1,0.208333333,0.558139535,0.11627907,0.558139535,0.4
+2,0.15625,0.744186047,0.11627907,0.372093023,0.4
+5,0.125,0.930232558,0.11627907,0.186046512,0.4
+10,0.114583333,1.01479915,0.11627907,0.101479915,0.4
